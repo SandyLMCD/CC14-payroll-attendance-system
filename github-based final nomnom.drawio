@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="tcjsno71EdrX0hj49cEU" name="FINALISMS">
-    <mxGraphModel dx="2550" dy="1683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,9 +293,6 @@
             <mxPoint x="776.75" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJjsRzqaRd4c7asXYir--20" value="Total_PhilHealth_Deductions" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1415" y="-490" width="199" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="njrsVde2IB6XEEYohYFF-7" value="Department_Name" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-189.75" y="723" width="128" height="48" as="geometry" />
         </mxCell>
@@ -320,10 +317,10 @@
             <mxPoint x="1555" y="-310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJjsRzqaRd4c7asXYir--25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0FI_tfFNJNvcFmxFVnWc-4" target="bJjsRzqaRd4c7asXYir--20" edge="1">
+        <mxCell id="bJjsRzqaRd4c7asXYir--25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0FI_tfFNJNvcFmxFVnWc-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1445" y="-385" as="sourcePoint" />
-            <mxPoint x="1605" y="-385" as="targetPoint" />
+            <mxPoint x="1514.5" y="-446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bJjsRzqaRd4c7asXYir--26" value="Total_SSS_Deductions" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -537,7 +534,7 @@
             <mxPoint x="820" y="-302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5GjHKsNSO-JHVIr0YKw0-3" value="PhilHealth Deductions" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="5GjHKsNSO-JHVIr0YKw0-3" value="PHILHEALTH DEDUCTIONS" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="472" y="-277" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GjHKsNSO-JHVIr0YKw0-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5GjHKsNSO-JHVIr0YKw0-3" target="IQhqfWnbCser1qJqU_I6-6" edge="1">
@@ -546,8 +543,59 @@
             <mxPoint x="771" y="-231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5GjHKsNSO-JHVIr0YKw0-5" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+        <mxCell id="5GjHKsNSO-JHVIr0YKw0-5" value="PhilHealthID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="488" y="-342" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5GjHKsNSO-JHVIr0YKw0-3" target="5GjHKsNSO-JHVIr0YKw0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519" y="-265" as="sourcePoint" />
+            <mxPoint x="679" y="-265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-2" value="PhilHealth_Deductions" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-351" width="157" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yF8jHdomq28Ouww_1T2H-2" target="5GjHKsNSO-JHVIr0YKw0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="-257" as="sourcePoint" />
+            <mxPoint x="626" y="-257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-4" value="SSS DEDUCTIONS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="492" y="-212" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQhqfWnbCser1qJqU_I6-6" target="yF8jHdomq28Ouww_1T2H-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658" y="-217" as="sourcePoint" />
+            <mxPoint x="818" y="-217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-6" value="SSS_ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="349" y="-230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF8jHdomq28Ouww_1T2H-4" target="yF8jHdomq28Ouww_1T2H-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="-186" as="sourcePoint" />
+            <mxPoint x="652" y="-186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-8" value="SSS_Deductions" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-158" width="109" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yF8jHdomq28Ouww_1T2H-8" target="yF8jHdomq28Ouww_1T2H-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="-188" as="sourcePoint" />
+            <mxPoint x="576" y="-188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-10" value="TAX DEDUCTIONS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="689" y="-214.5" width="128" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8jHdomq28Ouww_1T2H-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQhqfWnbCser1qJqU_I6-6" target="yF8jHdomq28Ouww_1T2H-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664" y="-170" as="sourcePoint" />
+            <mxPoint x="824" y="-170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
