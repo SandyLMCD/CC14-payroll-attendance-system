@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="2">
   <diagram id="tcjsno71EdrX0hj49cEU" name="FINALISMS">
-    <mxGraphModel dx="2035" dy="1424" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3425" dy="2125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,6 +563,9 @@
         </mxCell>
         <mxCell id="zWCo4nua--uhpmaDRWXI-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Need help with the cardinality side of things, I think kailangan ni mahuman ang cardinality ayha ta mag relational2 kay most of the mappings or arrow2 kay relationship-based i think&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;- sandy :DD&lt;/span&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="890" y="80" width="269" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="zWCo4nua--uhpmaDRWXI-3" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;color entity as green if nahimo na ang iyang relational table, thank you!&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="322.25" width="269" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
