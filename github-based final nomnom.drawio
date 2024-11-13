@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="tcjsno71EdrX0hj49cEU" name="FINALISMS">
-    <mxGraphModel dx="2300" dy="1557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2550" dy="1683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,9 +509,6 @@
             <mxPoint x="732" y="-132" as="sourcePoint" />
             <mxPoint x="892" y="-132" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yF8jHdomq28Ouww_1T2H-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yF8jHdomq28Ouww_1T2H-16" target="yF8jHdomq28Ouww_1T2H-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF8jHdomq28Ouww_1T2H-16" value="CASH ADVANCE DEDUCTIONS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="741" y="-205" width="126" height="47" as="geometry" />
